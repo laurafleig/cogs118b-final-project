@@ -12,4 +12,4 @@ vehicles.ipynb: Clustering performed on 40 transportation vehicle images (4 cate
 
 animals.ipynb: Clustering performed on 60 animal images (6 species of animals, 10 images from each)
 
-Watch out video analysis of the results: https://youtu.be/HB_hSljAgOI
+Watch our video analysis of the results: https://youtu.be/HB_hSljAgOI
