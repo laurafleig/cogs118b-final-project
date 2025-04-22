@@ -1,4 +1,4 @@
-# COGS 118B Final Project: Clustering CLIP Embeddings
+# Technology Analysis: Clustering CLIP Embeddings
 
 *Ada He, Laura Fleig, Sylvana Northrop*
 
